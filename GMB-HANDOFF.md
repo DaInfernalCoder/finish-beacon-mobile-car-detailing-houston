@@ -15,6 +15,7 @@ Create and launch Finish Beacon Mobile Car Detailing Houston as site 31 of the 1
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 - GitHub: https://github.com/DaInfernalCoder/finish-beacon-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/finish-beacon-mobile-car-detailing-houston
+- GitHub-to-Vercel automatic deployments: connected
 - Production fallback: https://finish-beacon-mobile-car-detailing.vercel.app
 - Attached custom hosts: `finishbeacon.shop`, `www.finishbeacon.shop`
 - Registrar nameservers saved: `ns1.vercel-dns.com`, `ns2.vercel-dns.com`
